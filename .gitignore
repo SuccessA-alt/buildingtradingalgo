@@ -1,4 +1,5 @@
 .idea/
 **/target/
 .venv/
-__pycache__//session1/target/
+__pycache__/
+/session1/target/
